@@ -1,4 +1,4 @@
-# Projet de Graphes (DUT S2)
+# Projet de Graphes (DUT - Semestre 2)
 
 Ce projet consiste en la réalisation de différentes "IA" pour un jeu de type PacMan. Le langage utilisé est le Java.
 
